@@ -27,15 +27,27 @@
                     
                     <div class="about-company-left">
 						 <p>Unified Excellence is one of the Best Placement agencies in Hyderabad. Yasasve HR core product is Recruitment services where we scatter for IT & non-IT sectors. Apart from that, we are even in Permanent Staffing, Contract Staffing, Executive Staffing, Training, and Human Development Program (like Skill Training, Corporate Training, and Women Empowerment Programs). </p>                     
-                         <p> We provide a one-stop solution to all our client’s needs by catering to their needs right from the entry-level to a high-value assignment. Our candidate-centric approach and commitment to clients make our key strength.
+                         <p> We provide a one-stop solution to all our clientâ€™s needs by catering to their needs right from the entry-level to a high-value assignment. Our candidate-centric approach and commitment to clients make our key strength.
 Yasasve HR is a Placement Consultancy in Hyderabad. We offer Recruitment Services, Corporate Training, and Learning & Development services to our clients for both IT and non-IT sectors. Our services extend all over India having a corporate office in Hyderabad.</p> 
                             <div class="promotion-box">							
-							  <p>SKILL DEVELOPMENT , TRAINING & PLACEMENT </p>
-							  <p>Personality Development, Skill Development, English Communication - written and oral, Interview and Group Discussion for students, self-employed, employees etc
-						   </p>
+							  <p>We even support the clients in Bulk Hiringâ€™s and we provide
+                               both on the role and off-role jobs. Our delivery model is based 
+                               on deep industry expertise across Permanent Staffing, Temporary Staffing, 
+                               -based Recruitment Services. We do an analysis of client manpower requirements 
+                               and understand their needs and Yasasve Hiring Team will work with them quickly
+                                and effectively. </p>
+							  <p>A recruitment agency provides better and best candidates when 
+                              it comes to screening, so you can devote your focus to only the most 
+                              qualified candidates. If a client is hiring frequently, then at any 
+                              given point of time, they will be busy with the recruitment process 
+                              like typically posting jobs, interviewing candidates, verifying their 
+                              documents. Signing with a recruitment agency makes this process easy 
+                              and gives businesses the benefit of increasing or decreasing their 
+                              employee levels as per the project demands.
+						     </p>
 						   </div> 
 						 
-                           <p>Our uniqueness and success factors are the customer engagement, project management, delivery management and these are possible of our company culture where we provide an environment for every team member to be innovative and a problem solver. We are completely customer focused and determined to satisfy our customers' expectations. </p>
+                           <p> we provide the best solutions to both the clients and the job seekers. </p>
 						   
                        </div>
                     
@@ -49,9 +61,9 @@ Yasasve HR is a Placement Consultancy in Hyderabad. We offer Recruitment Service
                         <div class="right-menubar">
                             <ul>
 							   <li class=""><a href="softwaredevelopment.php">Software Development</a></li>
-                                <li class="active"><a href="consultingservice.php">Consulting Services</a></li>
                                 <li class=""><a href="hospitalityservice.php">Hospitality Services</a></li>
-                                <li class=""><a href="hospitalityservice.php">Recruitment Services</a></li>
+                                <li class=""><a href="consultingservice.php">Consulting Services</a></li>
+                                <li class="active"><a href="recruitment.php">Recruitment Services</a></li>
                                 <li><a href="amcservice.php">Computer AMC Services</a></li>
                                 <li><a href="banking.php">Banking & Finance</a></li>
                                 <li><a href="multimedia-ad.php">Multimedia & Advertising</a></li>
