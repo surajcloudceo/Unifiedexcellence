@@ -26,15 +26,16 @@
                      <div class="padding-top-large"></div>
                     
                     <div class="about-company-left">
-						 <p>Unified Excellence is one of the Best Placement agencies in Hyderabad. Yasasve HR core product is Recruitment services where we scatter for IT & non-IT sectors. Apart from that, we are even in Permanent Staffing, Contract Staffing, Executive Staffing, Training, and Human Development Program (like Skill Training, Corporate Training, and Women Empowerment Programs). </p>                     
-                         <p> We provide a one-stop solution to all our clientâ€™s needs by catering to their needs right from the entry-level to a high-value assignment. Our candidate-centric approach and commitment to clients make our key strength.
-Yasasve HR is a Placement Consultancy in Hyderabad. We offer Recruitment Services, Corporate Training, and Learning & Development services to our clients for both IT and non-IT sectors. Our services extend all over India having a corporate office in Hyderabad.</p> 
+						 <p>Unified Excellence is one of the Best Placement agencies in Hyderabad. Unified Excellence HR core product is Recruitment services where we scatter for IT & non-IT sectors. Apart from that, we are even in Permanent Staffing, Contract Staffing, Executive Staffing, Training, and Human Development Program (like Skill Training, Corporate Training, and Women Empowerment Programs). </p>                     
+                         <p> We provide a one-stop solution to all our clientâ€™s needs by catering to their
+						  needs right from the entry-level to a high-value assignment. Our candidate-centric approach and commitment to clients make our key strength.
+						  Unified Excellence HR is a Placement Consultancy in Hyderabad. We offer Recruitment Services, Corporate Training, and Learning & Development services to our clients for both IT and non-IT sectors. Our services extend all over India having a corporate office in Hyderabad.</p> 
                             <div class="promotion-box">							
 							  <p>We even support the clients in Bulk Hiringâ€™s and we provide
                                both on the role and off-role jobs. Our delivery model is based 
                                on deep industry expertise across Permanent Staffing, Temporary Staffing, 
                                -based Recruitment Services. We do an analysis of client manpower requirements 
-                               and understand their needs and Yasasve Hiring Team will work with them quickly
+                               and understand their needs and Unified Excellence Hiring Team will work with them quickly
                                 and effectively. </p>
 							  <p>A recruitment agency provides better and best candidates when 
                               it comes to screening, so you can devote your focus to only the most 
