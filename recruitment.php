@@ -6,7 +6,7 @@
             <div class="hvrbox-layer_top">
                 <div class="container">
                     <div class="overlay-text text-left">						
-                        <h3>Consulting Services</h3>
+                        <h3>Recruitment Services</h3>
                         <nav aria-label="breadcrumb">
                           <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="#">Home</a></li>
