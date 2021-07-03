@@ -199,7 +199,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 											   <li><a class="dropdown-item" href="#">Specialized Services</a></li>
 											</ul>
 										</li>   
-										<li><a class="dropdown-item" href="consultingservice">Consulting Services</a></li>
+										
 										<li><a class="dropdown-item" href="amcservice">Computer AMC Services</a></li>
 										<li><a class="dropdown-item" href="banking">Banking & Finance</a></li>
 										<li><a class="dropdown-item" href="multimedia-ad">Multimedia & Advertising</a></li>
@@ -229,6 +229,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 										<li><a class="dropdown-item" href="career">Current Openings</a></li>
 									</ul>
 							  </li>	
+							  <li class="nav-item"><a class="nav-link" href="recruitment">Staffing</a></li>
 							  <li class="nav-item">
 								<a class="nav-link" href="partner">Partner</a>
 							  </li>	

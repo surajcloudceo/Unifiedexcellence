@@ -31,9 +31,9 @@
 						  needs right from the entry-level to a high-value assignment. Our candidate-centric approach and commitment to clients make our key strength.
 						  Unified Excellence HR is a Placement Consultancy in Hyderabad. We offer Recruitment Services, Corporate Training, and Learning & Development services to our clients for both IT and non-IT sectors. Our services extend all over India having a corporate office in Hyderabad.</p> 
                             <div class="promotion-box">							
-							  <p>We even support the clients in Bulk Hiringâ€™s and we provide
+							  <p>We even support the clients in Bulk Hirings and we provide
                                both on the role and off-role jobs. Our delivery model is based 
-                               on deep industry expertise across Permanent Staffing, Temporary Staffing, 
+                               on deep industry expertise across Permanent Staffing, 
                                -based Recruitment Services. We do an analysis of client manpower requirements 
                                and understand their needs and Unified Excellence Hiring Team will work with them quickly
                                 and effectively. </p>
@@ -46,11 +46,59 @@
                               and gives businesses the benefit of increasing or decreasing their 
                               employee levels as per the project demands.
 						     </p>
-							 <p> test</p>
+							
 						   </div> 
 						 
                            <p> we provide the best solutions to both the clients and the job seekers. </p>
-						   
+						   <div class="business-services-1x">	
+		<div class="container">
+			<div class="business-services">							
+				<div class="row">				
+															
+					<div class="col-md-12 service-content">
+						<div class="row">
+							<div class="col-md-4">
+								<div class="single-services">
+									<div class="media">								
+									  <img class="mr-3" src="images/icon/laptop.png" alt="Generic placeholder image">
+									  <div class="media-body">
+                                          <a href="#">Executive Search</a>
+										<!--<p>We are a client-centered and quality-conscious organization that offers a complete portfolio of software development. We do from anything to everything in Software Development & Management.</p>-->
+									  </div>
+									</div>	
+								</div>	
+							</div>
+							<div class="col-md-4">
+								<div class="single-services">
+									<div class="media">
+									  <img class="mr-3" src="images/icon/consulting.png" alt="Generic placeholder image">
+									  <div class="media-body">
+										<a href="#">Contractual Staffing</a>
+										<!--<p>We take care of your Training & Development need.Enhances skills,concepts, attitude and overall performance of employees, self-employed, students etc. with High-gauge groups or individual IT experts for brief support.</p>-->
+									  </div>
+									</div>	
+								</div>	
+							</div>
+							<div class="col-md-4">
+								<div class="single-services">
+									<div class="media">
+									  <img class="mr-3" src="images/icon/maintenance.png" alt="Generic placeholder image">
+									  <div class="media-body">
+										<a href="#">Freelancing Staffing</a>
+										<!--<p>We have passion to perform duties and chores involved in the running of Offices, Hotels, Service-Apartments, Shops & Malls such as House Keeping, Food  Services, Maintenance & Cleaning, Shopping, Packers ,& Movers, Import & Exports.</p>-->
+									  </div>
+									</div>	
+								</div>	
+							</div>		
+							
+							
+						</div>
+						
+					</div>									
+				</div>
+			</div>
+		</div>
+	</div>      
                        </div>
                     
                     
